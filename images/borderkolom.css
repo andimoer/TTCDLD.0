@@ -1,0 +1,5 @@
+.border1{
+    border-style: solid dotted ridge none;
+    border-width: 10x 1px 3px 0px;
+    border-color: red;
+}
